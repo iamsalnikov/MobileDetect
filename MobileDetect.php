@@ -22,9 +22,10 @@
  * TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
  *
- *
+ * This Extension based on Mobile_Detect class writed by Serban Ghita and Victor Stanciu.
  * @author      Serban Ghita <serbanghita@gmail.com>
  *              Victor Stanciu <vic.stanciu@gmail.com> (until v.1.0)
+ * 				Alexey Salnikov <cartrege@gmail.com> (Yii Extension)
  * @license     http://www.opensource.org/licenses/mit-license.php  MIT License
  * @link        Official page: http://mobiledetect.net
  *              GitHub Repository: https://github.com/serbanghita/Mobile-Detect
