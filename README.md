@@ -1,5 +1,5 @@
 ### MobileDetect Yii Extension
-> This extension based on This Extension based on [Mobile_Detect class](https://github.com/serbanghita/Mobile-Detect) writed by Serban Ghita and Victor Stanciu
+> This Extension based on [Mobile_Detect class](https://github.com/serbanghita/Mobile-Detect) writed by Serban Ghita and Victor Stanciu
 
 ### Install
 In app config:
