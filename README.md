@@ -27,5 +27,4 @@ In app config:
 
 ### Links
 [Class site](http://mobiledetect.net/)<br/>
-[Class (GitHub)](https://github.com/serbanghita/Mobile-Detect)<br/>
-[Yii Example](http://iamsalnikov.ru/examples/mobileDetect)
+[Class (GitHub)](https://github.com/serbanghita/Mobile-Detect)
