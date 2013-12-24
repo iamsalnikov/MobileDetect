@@ -5,7 +5,7 @@ require_once($basePath . DIRECTORY_SEPARATOR . 'lib' . DIRECTORY_SEPARATOR . 'Mo
 
 /**
  * Wrapper for Mobile_Detect @link https://github.com/serbanghita/Mobile-Detect
- * @author Alexey Salnikov <alexey@uley.pro>
+ * @author Alexey Salnikov <me@iamsalnikov.ru>
  */
 
 class MobileDetect extends CApplicationComponent
