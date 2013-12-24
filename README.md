@@ -28,3 +28,4 @@ In app config:
 ### Links
 [Class site](http://mobiledetect.net/)<br/>
 [Class (GitHub)](https://github.com/serbanghita/Mobile-Detect)
+[Example](http://iamsalnikov.ru/examples/mobileDetect)
